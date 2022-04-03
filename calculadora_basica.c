@@ -1,5 +1,5 @@
 #include <stdio.h>
-//CALCULADORA DE OPERACIONES BASICAS
+//CALCULADORA DE OPERACIONES MATEMATICAS BASICAS
 void menu();
 void suma();
 void resta();
